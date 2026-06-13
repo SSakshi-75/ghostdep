@@ -13,13 +13,13 @@
     "cli",
     "esm"
   ],
-  "homepage": "https://github.com/yourusername/ghostdep#readme",
+  "homepage": "https://github.com/SSakshi-75/ghostdep#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/ghostdep/issues"
+    "url": "https://github.com/SSakshi-75/ghostdep/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ghostdep.git"
+    "url": "git+https://github.com/SSakshi-75/ghostdep.git"
   },
   "license": "MIT",
   "type": "module",
