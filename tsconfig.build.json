@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    /* Only emit from src/ — exclude tests from the published bundle */
+    "rootDir": ".",
+    "outDir": "./dist"
+  },
+  "include": ["src/**/*", "bin/**/*"],
+  "exclude": ["node_modules", "dist", "tests"]
+}
